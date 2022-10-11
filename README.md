@@ -1,3 +1,4 @@
+# This is used to create graphics in python
 
 ##### Place this file in the **same** place/folder as your main python file. (Like put both in desktop) Then in your main python file, add this:
 ```python
